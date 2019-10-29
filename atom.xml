@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dreammagic.cc</id>
+    <id>http://localhost:4000</id>
     <title>DREAM  &amp;  MAGIC</title>
-    <updated>2019-09-29T08:36:51.334Z</updated>
+    <updated>2019-10-29T01:47:11.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dreammagic.cc"/>
-    <link rel="self" href="https://dreammagic.cc/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>重要的并不是活得最好，而是活得最多 。</subtitle>
-    <logo>https://dreammagic.cc/images/avatar.png</logo>
-    <icon>https://dreammagic.cc/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2019, DREAM  &amp;  MAGIC</rights>
     <entry>
+        <title type="html"><![CDATA[世足]]></title>
+        <id>http://localhost:4000/post/test</id>
+        <link href="http://localhost:4000/post/test">
+        </link>
+        <updated>2019-09-29T08:46:21.000Z</updated>
+        <content type="html"><![CDATA[<p>👢配置<br>
+Gridea 最早叫 Hve Notes ，开发者为了更易读和好记，重新命名为 Gridea ，支持 Windows 和 Mac 平台，它的基础界面非常地小清新。</p>
+<p>第一次使用它需要你进行应用的初始化配置，才能让他和 Github Pages 连接，配置很简单，可以参考下面的方法进行配置：</p>
+<p>域名：Github Pages 对应的域名（例如：https://brick713.github.io 或 http://moyu.com）<br>
+仓库：你的静态文件存放的仓库（例如：Brick713.github.io）<br>
+分支：你的 Github Pages 对应的分支（例如：master）<br>
+用户名：仓库所属用户的用户名（通常就是你的 Github 账号的昵称）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[试水之作]]></title>
+        <id>http://localhost:4000/post/story</id>
+        <link href="http://localhost:4000/post/story">
+        </link>
+        <updated>2019-09-29T08:43:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>👢配置<br>
+Gridea 最早叫 Hve Notes ，开发者为了更易读和好记，重新命名为 Gridea ，支持 Windows 和 Mac 平台，它的基础界面非常地小清新。</p>
+<p>第一次使用它需要你进行应用的初始化配置，才能让他和 Github Pages 连接，配置很简单，可以参考下面的方法进行配置：</p>
+<p>域名：Github Pages 对应的域名（例如：https://brick713.github.io 或 http://moyu.com）<br>
+仓库：你的静态文件存放的仓库（例如：Brick713.github.io）<br>
+分支：你的 Github Pages 对应的分支（例如：master）<br>
+用户名：仓库所属用户的用户名（通常就是你的 Github 账号的昵称）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👢配置<br>
+Gridea 最早叫 Hve Notes ，开发者为了更易读和好记，重新命名为 Gridea ，支持 Windows 和 Mac 平台，它的基础界面非常地小清新。</p>
+<p>第一次使用它需要你进行应用的初始化配置，才能让他和 Github Pages 连接，配置很简单，可以参考下面的方法进行配置：</p>
+<p>域名：Github Pages 对应的域名（例如：https://brick713.github.io 或 http://moyu.com）<br>
+仓库：你的静态文件存放的仓库（例如：Brick713.github.io）<br>
+分支：你的 Github Pages 对应的分支（例如：master）<br>
+用户名：仓库所属用户的用户名（通常就是你的 Github 账号的昵称）</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dreammagic.cc/post/hello-gridea</id>
-        <link href="https://dreammagic.cc/post/hello-gridea">
+        <id>http://localhost:4000/post/hello-gridea</id>
+        <link href="http://localhost:4000/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
