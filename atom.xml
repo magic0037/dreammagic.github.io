@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://dreammagic.cc</id>
     <title>DREAM  &amp;  MAGIC</title>
-    <updated>2019-10-29T01:47:11.806Z</updated>
+    <updated>2019-11-05T04:21:18.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://dreammagic.cc"/>
+    <link rel="self" href="https://dreammagic.cc/atom.xml"/>
     <subtitle>重要的并不是活得最好，而是活得最多 。</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://dreammagic.cc/images/avatar.png</logo>
+    <icon>https://dreammagic.cc/favicon.ico</icon>
     <rights>All rights reserved 2019, DREAM  &amp;  MAGIC</rights>
     <entry>
         <title type="html"><![CDATA[世足]]></title>
-        <id>http://localhost:4000/post/test</id>
-        <link href="http://localhost:4000/post/test">
+        <id>https://dreammagic.cc/post/test</id>
+        <link href="https://dreammagic.cc/post/test">
         </link>
         <updated>2019-09-29T08:46:21.000Z</updated>
         <content type="html"><![CDATA[<p>👢配置<br>
@@ -27,8 +27,8 @@ Gridea 最早叫 Hve Notes ，开发者为了更易读和好记，重新命名�
     </entry>
     <entry>
         <title type="html"><![CDATA[试水之作]]></title>
-        <id>http://localhost:4000/post/story</id>
-        <link href="http://localhost:4000/post/story">
+        <id>https://dreammagic.cc/post/story</id>
+        <link href="https://dreammagic.cc/post/story">
         </link>
         <updated>2019-09-29T08:43:31.000Z</updated>
         <summary type="html"><![CDATA[<p>👢配置<br>
@@ -51,8 +51,8 @@ Gridea 最早叫 Hve Notes ，开发者为了更易读和好记，重新命名�
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea</id>
-        <link href="http://localhost:4000/post/hello-gridea">
+        <id>https://dreammagic.cc/post/hello-gridea</id>
+        <link href="https://dreammagic.cc/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
